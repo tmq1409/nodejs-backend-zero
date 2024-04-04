@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-backend-zero",
+  "version": "1.0.0",
+  "description": "Daddy Quang - FULLSTACK",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmq1409/nodejs-backend-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Daddy Quang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmq1409/nodejs-backend-zero/issues"
+  },
+  "homepage": "https://github.com/tmq1409/nodejs-backend-zero#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
